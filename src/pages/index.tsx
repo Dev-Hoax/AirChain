@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>NFT Airline Tickets</title>
+        <title>AirChain</title>
         <meta name="description" content="Web3 Application to mint NFT tickets!" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
